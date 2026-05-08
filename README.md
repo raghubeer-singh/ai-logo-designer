@@ -63,7 +63,7 @@ By integrating Hugging Face's state-of-the-art **FLUX.1-schnell** image generati
 Execute the main Python script from your terminal:
 
 ```bash
-python ai.py
+python ai-logo-designer.py
 ```
 
 ## 🧠 How It Works (The Prompt Engineering)
