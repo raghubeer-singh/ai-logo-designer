@@ -4,8 +4,7 @@ A sleek, dark-themed desktop application built with Python and Tkinter that leve
 
 By integrating Hugging Face's state-of-the-art **FLUX.1-schnell** image generation model, this app takes a simple company name and style preference, intelligently guesses the industry context, and generates a high-quality, text-free vector-style icon ready for branding.
 
-![App Screenshot](placeholder_for_your_app_screenshot.png)
-_(Note: Take a screenshot of your dark-mode app running and upload it to your repo, then link it here!)_
+![ai-logo-designer](https://github.com/raghubeer-singh/ai-logo-designer/blob/main/screenshot.png)
 
 ## ✨ Features
 
